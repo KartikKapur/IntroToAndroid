@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_australia">Canberra is the capital of Australia</string>
+    <string name="question_asia">India is a part of Asia</string>
+    <string name="question_mideast">The Suez Vanal connects the Red Sea and Indian Ocean</string>
+</resources>
