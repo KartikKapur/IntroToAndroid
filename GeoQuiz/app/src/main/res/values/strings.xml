@@ -9,4 +9,9 @@
     <string name="question_australia">Canberra is the capital of Australia</string>
     <string name="question_asia">India is a part of Asia</string>
     <string name="question_mideast">The Suez Vanal connects the Red Sea and Indian Ocean</string>
+    <string name="question_australia2">Australia is an island</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
 </resources>
